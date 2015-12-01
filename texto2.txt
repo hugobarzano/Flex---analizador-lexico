@@ -1,0 +1,14 @@
+<html> documento
+	
+	<body>
+
+
+		cuerpo
+		<strong> fuerteeee</strong>
+		<h1> encabezado tipo 1 </h1>
+		<p> parrafo </p>
+	</body> 
+	
+</html>
+
+
